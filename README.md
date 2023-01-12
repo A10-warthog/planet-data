@@ -2,5 +2,5 @@
 
 Practice html tables
 
-##Credit
+## Credit
 MDN: Learn HTML table
